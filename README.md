@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nurman</h1>
-<h3 align="center">A passionate android and web developer from Indonesia</h3>
+<h3 align="center">A passionate Android and Web developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurman06&label=Profile%20views&color=0e75b6&style=flat" alt="nurman06" /> </p>
 
