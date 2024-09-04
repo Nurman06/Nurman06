@@ -38,9 +38,8 @@
 
 ## GitHub Stats & Top Languages
 
-![Nurman06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurman06&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurman06&theme=dark)
+![Nurman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurman06&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurman06&theme=radical&layout=compact)
 
 
 <br>
