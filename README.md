@@ -134,9 +134,3 @@
 **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** 🚀
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Nurman06&icon=2&color=6" alt="Visit Count" />
-</div>
