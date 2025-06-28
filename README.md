@@ -79,15 +79,21 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurman06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurman06&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nurman06&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurman06&theme=tokyonight" alt="Top Languages by Commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurman06&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurman06&theme=tokyonight&utcOffset=7" alt="Commits by Time" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Nurman06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurman06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
