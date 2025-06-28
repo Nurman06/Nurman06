@@ -127,16 +127,6 @@
 
 ---
 
-## 💼 Current Projects
-
-🔨 **Android Todo App** - Building a comprehensive task management application using Kotlin and modern Android development practices
-
-🌐 **Web Portfolio** - Developing a responsive portfolio website showcasing my projects and skills
-
-📱 **Flutter E-commerce App** - Creating a cross-platform mobile application for online shopping
-
----
-
 <div align="center">
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
